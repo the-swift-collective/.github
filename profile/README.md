@@ -10,9 +10,9 @@
 
 <div align="center">
 
-# The Swift Collective
+# the swift collective
 
-Cross platform **Swift Packages**.
+cross platform **swift packages**.
 
 <br/>
 <br/>
