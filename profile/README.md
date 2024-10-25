@@ -17,12 +17,7 @@ cross platform **swift packages**.
 <br/>
 <br/>
 
-<!-- Remove these, used as placeholders for now until we have organization repositories. -->
-
-[![stackotter card](https://github-readme-stats.vercel.app/api?username=stackotter&show_icons=true&theme=kacho_ga)](https://github.com/stackotter)
-
-[![furby card](https://github-readme-stats.vercel.app/api?username=furby-tm&show_icons=true&theme=kacho_ga)](https://github.com/furby-tm)
-
+[![zlib card](https://github-readme-stats.vercel.app/api/pin/?username=the-swift-collective&repo=zlib&show_icons=true&theme=kacho_ga)](https://github.com/the-swift-collective/zlib)
 
 <br/>
 <br/>
