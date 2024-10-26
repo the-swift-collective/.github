@@ -19,5 +19,7 @@ cross platform **swift packages**.
 
 [![zlib card](https://github-readme-stats.vercel.app/api/pin/?username=the-swift-collective&repo=zlib&show_icons=true&theme=kacho_ga)](https://github.com/the-swift-collective/zlib)
 
+[![libpng card](https://github-readme-stats.vercel.app/api/pin/?username=the-swift-collective&repo=libpng&show_icons=true&theme=kacho_ga)](https://github.com/the-swift-collective/libpng)
+
 <br/>
 <br/>
