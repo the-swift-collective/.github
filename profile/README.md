@@ -21,5 +21,7 @@ cross platform **swift packages**.
 
 [![libpng card](https://github-readme-stats.vercel.app/api/pin/?username=the-swift-collective&repo=libpng&show_icons=true&theme=kacho_ga)](https://github.com/the-swift-collective/libpng)
 
+[![webp card](https://github-readme-stats.vercel.app/api/pin/?username=the-swift-collective&repo=webp&show_icons=true&theme=kacho_ga)](https://github.com/the-swift-collective/webp)
+
 <br/>
 <br/>
