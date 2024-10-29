@@ -17,13 +17,21 @@ cross platform **swift packages**.
 <br/>
 <br/>
 
-[![zlib card](https://github-readme-stats.vercel.app/api/pin/?username=the-swift-collective&repo=zlib&show_icons=true&theme=aura_dark&border_radius=10.5)](https://github.com/the-swift-collective/zlib)
+<a style href="https://github.com/the-swift-collective/zlib">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=the-swift-collective&repo=zlib&show_icons=true&theme=aura_dark&border_radius=10.5&description_lines_count=1"/>
+</a>
 
-[![libpng card](https://github-readme-stats.vercel.app/api/pin/?username=the-swift-collective&repo=libpng&show_icons=true&theme=tokyonight&border_radius=10.5)](https://github.com/the-swift-collective/libpng)
+<a href="https://github.com/the-swift-collective/libpng">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=the-swift-collective&repo=libpng&show_icons=true&theme=aura_dark&border_radius=10.5&description_lines_count=1"/>
+</a>
 
-[![libwebp card](https://github-readme-stats.vercel.app/api/pin/?username=the-swift-collective&repo=libwebp&show_icons=true&theme=ocean_dark&border_radius=10.5)](https://github.com/the-swift-collective/libwebp)
+<a href="https://github.com/the-swift-collective/libwebp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=the-swift-collective&repo=libwebp&show_icons=true&theme=aura_dark&border_radius=10.5&description_lines_count=1"/>
+</a>
 
-[![imgui card](https://github-readme-stats.vercel.app/api/pin/?username=the-swift-collective&repo=imgui&show_icons=true&theme=catppuccin_mocha&border_radius=10.5)](https://github.com/the-swift-collective/imgui)
+<a href="https://github.com/the-swift-collective/imgui">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=the-swift-collective&repo=imgui&show_icons=true&theme=aura_dark&border_radius=10.5&description_lines_count=1"/>
+</a>
 
 <br/>
 <br/>
