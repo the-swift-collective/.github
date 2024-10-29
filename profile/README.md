@@ -14,7 +14,7 @@
   &nbsp;the swift collective
 </h1>
 
-##### [🎧 cross platform **swift packages**.][summon-development-music]
+##### [🎧cross platform **swift packages**][summon-development-music].
 
 <br/>
 
@@ -55,4 +55,4 @@
 
 ###### <sub>we ❤ swift and are dedicated to building a thriving ecosystem around it, together. whether you’re an expert or just getting started, we invite you to collaborate.</sub>
 
-[summon-development-music]: https://youtu.be/FGYmpaRCyg0?si=fyXASQA90PLxanUc
+[summon-development-music]: https://youtu.be/ZgP7Y9-GK3c?si=xNDxKVELW7hb6O8Q
