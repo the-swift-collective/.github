@@ -7,10 +7,12 @@
   "MD041": false
 } -->
 
-
 <div align="center">
 
-# the swift collective
+<h1 align="center">
+  <img align="center" height="38" src="https://github.com/user-attachments/assets/75a519c6-e12d-4c69-b3b2-795e9d244de0">
+  &nbsp;the swift collective
+</h1>
 
 ##### [🎧 cross platform **swift packages**.](summon-development-music)
 
