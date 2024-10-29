@@ -15,7 +15,6 @@
 cross platform **swift packages**.
 
 <br/>
-<br/>
 
 <a style href="https://github.com/the-swift-collective/zlib">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=the-swift-collective&repo=zlib&show_icons=true&theme=aura_dark&border_radius=10.5&description_lines_count=1"/>
