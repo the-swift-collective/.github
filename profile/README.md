@@ -51,5 +51,4 @@ cross platform **swift packages**.
 <br/>
 <br/>
 
-###### <sub>we ❤ swift and are dedicated to building a thriving ecosystem around it, together.</sub>
-###### <sup>whether you’re an expert or just getting started, we invite you to collaborate.</sup>
+###### <sub>we ❤ swift and are dedicated to building a thriving ecosystem around it, together. whether you’re an expert or just getting started, we invite you to collaborate.</sub>
